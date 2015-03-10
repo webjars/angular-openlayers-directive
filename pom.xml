@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>angular-openlayers-directive</artifactId>
-    <version>0.0.3-SNAPSHOT</version>
+    <version>0.0.3</version>
     <name>angular-openlayers-directive</name>
     <description>WebJar for angular-openlayers-directive</description>
     <url>http://webjars.org</url>
@@ -36,7 +36,7 @@
         <url>http://github.com/webjars/angular-openlayers-directive</url>
         <connection>scm:git:https://github.com/webjars/angular-openlayers-directive.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/angular-openlayers-directive.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>angular-openlayers-directive-0.0.3</tag>
     </scm>
     
     <dependencies>
